@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kei Tran (Trần Hữu Hùng)</h1>
+<h1 align="center">Hi 👋, I'm Võ Thành Nguyên </h1>
 
-<h3 align="center">Full-stack Developer • React • Java Spring Boot</h3>
+<h3 align="center">Full-stack Developer • React • Java Spring Boot • Nodejs • ./Net</h3>
 
 <p align="center">
-  <em>Building modern web applications with clean interfaces, maintainable code, and practical backend architecture.</em>
+  <em>Building modern web applications - system with clean interfaces, maintainable code, and practical backend architecture.</em>
 </p>
 
 <p align="center">
   <a href="https://portfolio-keitran666.vercel.app"><strong>🌐 Portfolio</strong></a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/Ke1Tran666"><strong>💻 GitHub</strong></a>
+  <a href="https://github.com/VoThanhNguyen02/VoThanhNguyen02"><strong>💻 GitHub</strong></a>
 </p>
 
 ---
